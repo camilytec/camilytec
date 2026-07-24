@@ -22,8 +22,22 @@ Tenho interesse em desenvolvimento web, produtos digitais, metodologias ágeis e
 
 ## Tecnologias
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cs,python,mysql,git,github,vscode&perline=6"/>
+## Linguagens e Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,cs,python" />
+</p>
+
+## Ferramentas & Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,vscode" />
+</p>
+
+## Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ---
