@@ -4,7 +4,7 @@
 
 ### Análise e Desenvolvimento de Sistemas • Web Development • Product Owner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=B76E79&center=true&vCenter=true&width=600&lines=Bem-vindo(a)+ao+meu+GitHub!;Desenvolvimento+Web;Gestão+de+Projetos;Metodologias+Ágeis."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=B76E79&center=true&vCenter=true&width=600&lines=Bem-vindo(a)+ao+meu+GitHub!;Desenvolvimento;Gestão+de+Projetos;Metodologias+Ágeis."/>
 
 </div>
 
