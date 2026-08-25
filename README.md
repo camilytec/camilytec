@@ -12,11 +12,11 @@
 
 ## Sobre mim
 
-Tenho 20 anos e sou estudante de **Análise e Desenvolvimento de Sistemas**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**.
 
-Atualmente, sou **Estagiária em Desenvolvimento Web na Prodemge** e também atuo como **Product Owner na COMP**, empresa júnior de tecnologia da PUC Minas. 
+Atualmente, sou **Estagiária em Desenvolvimento na Prodemge** e também atuo como **Product Owner na COMP**, empresa júnior de tecnologia da PUC Minas. 
 
-Tenho interesse em desenvolvimento web, produtos digitais, metodologias ágeis e gestão de projetos, buscando sempre criar soluções organizadas, intuitivas e que gerem valor.
+Tenho interesse em desenvolvimento, produtos digitais, metodologias ágeis e gestão de projetos, buscando sempre criar soluções organizadas, intuitivas e que gerem valor.
 
 ---
 
