@@ -45,7 +45,7 @@ Tenho interesse em desenvolvimento, produtos digitais, metodologias ágeis e ges
 ## Atualmente
 
 ```txt
-✔ Desenvolvimento Web
+✔ Desenvolvimento 
 ✔ Product Owner
 ✔ Scrum e Kanban
 ✔ Organização de Processos
