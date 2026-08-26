@@ -31,7 +31,7 @@ Tenho interesse em desenvolvimento, produtos digitais, metodologias ágeis e ges
 ## Ferramentas & Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins" />
 </p>
 
 ## Banco de Dados
