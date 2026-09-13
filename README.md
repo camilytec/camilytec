@@ -25,7 +25,7 @@ Tenho interesse em desenvolvimento, produtos digitais, metodologias ágeis e ges
 ## Linguagens e Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,nodejs,php,cs,dotnet" />
 </p>
 
 ## Ferramentas & Tecnologias
