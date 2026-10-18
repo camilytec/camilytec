@@ -2,9 +2,9 @@
 
 # Olá! 🤎
 
-### Systems Analysis and Development • Development • Product Owner
+### Systems Analysis and Development • Digital Solutions • Product Ownership
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=B76E79&center=true&vCenter=true&width=600&lines=Bem-vindo(a)+ao+meu+GitHub!;Desenvolvimento;Gestão+de+Projetos;Metodologias+Ágeis."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=B76E79&center=true&vCenter=true&width=650&lines=Bem-vindo(a)+ao+meu+GitHub!;Desenvolvimento+de+Software;Produtos+e+Soluções+Digitais;Engenharia+de+Requisitos;Tecnologia+e+Negócios."/>
 
 </div>
 
@@ -12,35 +12,33 @@
 
 ## Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na PUC Minas**.
 
-Atualmente, faço **Estágio em Soluções Digitais na EloGroup** e também atuo como **Product Owner na COMP**, empresa júnior de tecnologia da PUC Minas. 
-
-Tenho interesse em desenvolvimento, produtos digitais, metodologias ágeis e gestão de projetos, buscando sempre criar soluções organizadas, intuitivas e que gerem valor.
+Atualmente, sou **estagiária em Digital Solutions na EloGroup** e atuo como **Product Owner na COMP**, empresa júnior de tecnologia da PUC Minas.
 
 ---
 
 ## Tecnologias
 
-## Linguagens
+### Linguagens
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,java,php,cs" />
 </p>
 
-## Frameworks e Bibliotecas
+### Frameworks e Bibliotecas
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,spring,nodejs,dotnet" />
 </p>
 
-## Ferramentas & Tecnologias
+### Ferramentas
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins" />
 </p>
 
-## Banco de Dados
+### Banco de Dados
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
@@ -48,29 +46,23 @@ Tenho interesse em desenvolvimento, produtos digitais, metodologias ágeis e ges
 
 ---
 
-## Atualmente
+## Áreas de interesse
 
-```txt
-✔ Desenvolvimento de Software  
-✔ Soluções Digitais  
-✔ Product Ownership  
-✔ Engenharia de Requisitos  
-✔ Scrum e Kanban  
-✔ Organização e Melhoria de Processos  
-✔ Banco de Dados
-```
+- Desenvolvimento de Software
+- Soluções Digitais
+- Gestão de Produtos e Product Ownership
+- Engenharia de Requisitos
+- Scrum e Kanban
+- Melhoria de Processos
+- Banco de Dados
 
 ---
 
 ## Conecte-se comigo
 
 <p align="center">
-<a href="https://www.linkedin.com/in/camily-barbosa-829820270">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/camily-barbosa-829820270">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
-
----
-
-
+```
