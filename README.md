@@ -51,10 +51,12 @@ Tenho interesse em desenvolvimento, produtos digitais, metodologias ágeis e ges
 ## Atualmente
 
 ```txt
-✔ Desenvolvimento 
-✔ Product Owner
-✔ Scrum e Kanban
-✔ Organização de Processos
+✔ Desenvolvimento de Software  
+✔ Soluções Digitais  
+✔ Product Ownership  
+✔ Engenharia de Requisitos  
+✔ Scrum e Kanban  
+✔ Organização e Melhoria de Processos  
 ✔ Banco de Dados
 ```
 
