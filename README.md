@@ -48,30 +48,6 @@ Gosto de conectar tecnologia, produto e negócios para transformar necessidades 
 
 ---
 
-## Além do código
-
-<div align="center">
-
-**Produto**
-
-Product Ownership • Engenharia de Requisitos • Gestão de Produtos
-
-<br/>
- 
-**Tecnologia**
-
-Desenvolvimento de Software • Banco de Dados • Soluções Digitais
-
-<br/>
-
-**Processos**
-
-Scrum e Kanban • Melhoria Contínua • Colaboração
-
-</div>
-
----
-
 ## GitHub Contributions
 
 <div align="center">
