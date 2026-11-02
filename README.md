@@ -8,7 +8,6 @@
 
 </div>
 
----
 
 ## Sobre mim
 
@@ -58,7 +57,7 @@ Atualmente, sou **estagiária em Digital Solutions na EloGroup** e atuo como **P
 
 ---
 
-## GitHub Contributions.
+## GitHub Contributions
 
 <div align="center">
   <picture>
