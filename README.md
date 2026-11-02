@@ -53,19 +53,19 @@ Gosto de conectar tecnologia, produto e negócios para transformar necessidades 
 <table>
   <tr>
     <td align="center" width="33%">
-      <h3>✧ Produto</h3>
+      <h3> Produto</h3>
       Product Ownership<br/>
       Engenharia de Requisitos<br/>
       Gestão de Produtos
     </td>
     <td align="center" width="33%">
-      <h3>✧ Tecnologia</h3>
+      <h3> Tecnologia</h3>
       Desenvolvimento<br/>
       Banco de Dados<br/>
       Soluções Digitais
     </td>
     <td align="center" width="33%">
-      <h3>✧ Processos</h3>
+      <h3> Processos</h3>
       Scrum e Kanban<br/>
       Melhoria contínua<br/>
       Colaboração
