@@ -16,9 +16,10 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: camilytec
+          
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=8B5FBF&color_dots=F1EAF8,B58AD6,8B5FBF,6A3D91,3B1D55
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=B58AD6&color_dots=2D1B3D,5B347A,8B5FBF,B58AD6,E6D5F5
+            dist/github-contribution-grid-snake.svg?color_snake=%238B5FBF&color_dots=%23F1EAF8,%23DCC5EF,%23B58AD6,%238B5FBF,%236A3D91
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23B58AD6&color_dots=%232D1B3D,%235B347A,%238B5FBF,%23B58AD6,%23E6D5F5
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
