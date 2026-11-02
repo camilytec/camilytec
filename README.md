@@ -50,28 +50,25 @@ Gosto de conectar tecnologia, produto e negócios para transformar necessidades 
 
 ## Além do código
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3> Produto</h3>
-      Product Ownership<br/>
-      Engenharia de Requisitos<br/>
-      Gestão de Produtos
-    </td>
-    <td align="center" width="33%">
-      <h3> Tecnologia</h3>
-      Desenvolvimento<br/>
-      Banco de Dados<br/>
-      Soluções Digitais
-    </td>
-    <td align="center" width="33%">
-      <h3> Processos</h3>
-      Scrum e Kanban<br/>
-      Melhoria contínua<br/>
-      Colaboração
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+**Produto**
+
+Product Ownership • Engenharia de Requisitos • Gestão de Produtos
+
+<br/>
+ 
+**Tecnologia**
+
+Desenvolvimento de Software • Banco de Dados • Soluções Digitais
+
+<br/>
+
+**Processos**
+
+Scrum e Kanban • Melhoria Contínua • Colaboração
+
+</div>
 
 ---
 
