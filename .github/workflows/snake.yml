@@ -1,3 +1,4 @@
+
 name: Generate Snake
 
 on:
@@ -16,8 +17,8 @@ jobs:
         with:
           github_user_name: camilytec
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=%238B5FBF&color_dots=%23F1EAF8,%23E5D5F2,%23C9A8E8,%23A77BD1,%236B3D8A
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23C6A5D5&color_dots=%23211C2B,%233B2D4A,%23665078,%239B7AB5,%23D8B9EA
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
