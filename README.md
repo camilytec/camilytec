@@ -1,13 +1,14 @@
-<div align="center">
+ <div align="center">
 
-# Olá! 🤎
+# Olá! 💜
 
 ### Systems Analysis and Development • Digital Solutions • Product Ownership
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=B76E79&center=true&vCenter=true&width=650&lines=Bem-vindo(a)+ao+meu+GitHub!;Desenvolvimento+de+Software;Produtos+e+Soluções+Digitais;Engenharia+de+Requisitos;Tecnologia+e+Negócios."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=B58AD6&center=true&vCenter=true&width=650&lines=Bem-vindo(a)+ao+meu+GitHub!;Desenvolvimento+de+Software;Produtos+e+Soluções+Digitais;Engenharia+de+Requisitos;Tecnologia+e+Negócios."/>
 
 </div>
 
+---
 
 ## Sobre mim
 
@@ -73,7 +74,6 @@ Atualmente, sou **estagiária em Digital Solutions na EloGroup** e atuo como **P
 
 <p align="center">
   <a href="https://www.linkedin.com/in/camily-barbosa-829820270">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-8B5FBF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
